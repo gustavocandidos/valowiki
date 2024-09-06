@@ -33,7 +33,7 @@ Quer ajudar a melhorar o ValoWiki? Show de bola! Basta dar uma olhada no código
 
 **Links úteis:**
 
-* Repositório do projeto: [github.com/gustavocandidos/valowiki]
+* Repositório do projeto: [(https://github.com/gustavocandidos/valowiki/tree/main)]
 * Documentação HTML: [https://github.com/gustavocandidos/valowiki/blob/main/index.html]
 * Documentação CSS: [(https://github.com/gustavocandidos/valowiki/blob/main/style.css)]
 * Documentação JavaScript: [(https://github.com/gustavocandidos/valowiki/blob/main/app.js))]
