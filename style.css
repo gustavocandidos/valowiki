@@ -13,7 +13,7 @@ body {
     margin: 0; /* Remove a margem padrão */
     padding: 10; /* Remove o padding padrão */
     /* Estilizando o BackGround */
-    background-image: url('img/background.jpg');
+    background-image: url('background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
